@@ -9,3 +9,4 @@ As a developer I want to install and run a WordPress site using docker so that I
 2. Open your terminal/command prompt and run ``` docker -v ```. If you see a version of docker installed on your computer, proceed to the next step. Otherwise, installed Docker for Desktop from here: https://www.docker.com/products/docker-desktop.
 3. Run ``` docker-compose up ``` in your terminal and wait until all files are downloaded.
 4. Use your preferred browser and visit ``` localhost:8000 ``` and follow the steps required to install WordPress.
+5. After everything is installed, to view PHPMyAdmin dashboard, visit ``` localhost:8080 ```
